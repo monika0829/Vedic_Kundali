@@ -7,6 +7,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: '/Vedic_Kundali/' 
   server: {
     host: '0.0.0.0',
     port: 5173,
